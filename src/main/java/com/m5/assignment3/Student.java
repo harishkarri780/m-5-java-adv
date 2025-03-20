@@ -1,4 +1,4 @@
-package com.m5.assignment;
+package com.m5.assignment3;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
